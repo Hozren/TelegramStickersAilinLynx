@@ -1,0 +1,14 @@
+# Локальные секреты
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Временные файлы и системные метаданные
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
+__pycache__/
